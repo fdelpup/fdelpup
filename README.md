@@ -1,6 +1,6 @@
 <h2>Informacion Personal <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E4MmY3NjA5MDc5YjlmOTllMDdmNGU2NGNjZjc4NzQ0OTQ2MzBhZiZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="230">
-<p><em>Software Engineering Student at <a href="https://www.fi.uba.ar/">University of Buenos Aires</a><img src="https://media1.giphy.com/media/3o7bujPqq4cN6iPvz2/giphy.gif" width="30"> 
+<p><em>Software Engineering Student at <a href="https://www.fi.uba.ar/">University of Buenos Aires</a><img src="https://media3.giphy.com/media/sW0L5TunRpSCFD954x/giphy.gif" width="30"> 
 </em></p>
 <!--
 **fdelpup/fdelpup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
