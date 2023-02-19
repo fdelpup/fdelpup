@@ -1,6 +1,6 @@
 <h2>Personal Information <img src="https://media0.giphy.com/media/NDqBIAjtA1Z72/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E4MmY3NjA5MDc5YjlmOTllMDdmNGU2NGNjZjc4NzQ0OTQ2MzBhZiZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="230">
-<p><em>Software Engineering Student at <a href="https://www.fi.uba.ar/">University of Buenos Aires</a><img src="https://media3.giphy.com/media/sW0L5TunRpSCFD954x/giphy.gif" width="30"> 
+<p><em>Software Engineering Student at <a href="https://www.fi.uba.ar/">University of Buenos Aires</a><img src="https://media3.giphy.com/media/sW0L5TunRpSCFD954x/giphy.gif" width="45"> 
 </em></p>
 
 [![Linkedin: federicodelpup](https://img.shields.io/badge/-fededelpup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicodelpup/)](https://www.linkedin.com/in/federicodelpup/)
