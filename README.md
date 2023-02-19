@@ -3,7 +3,7 @@
 <p><em>Software Engineering Student at <a href="https://www.fi.uba.ar/">University of Buenos Aires</a><img src="https://media3.giphy.com/media/sW0L5TunRpSCFD954x/giphy.gif" width="45"> 
 </em></p>
 
-[![Linkedin: federicodelpup](https://img.shields.io/badge/-fededelpup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicodelpup/)](https://www.linkedin.com/in/federicodelpup/)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-fededelpup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicodelpup/)](https://www.linkedin.com/in/federicodelpup/)
 ![GitHub followers](https://img.shields.io/github/followers/fdelpup?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=fdelpup)
 
