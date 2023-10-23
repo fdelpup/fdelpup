@@ -6,7 +6,7 @@
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicodelpup/)](https://www.linkedin.com/in/federicodelpup/)
 ![GitHub followers](https://img.shields.io/github/followers/fdelpup?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=fdelpup)
-
+<!--
 ### A little more about me... <img src="https://media2.giphy.com/media/SKGo6OYe24EBG/giphy.gif" width="50">
 
 ```javascript
